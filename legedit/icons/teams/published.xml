@@ -30,5 +30,11 @@
 <icon category="TEAM" name="US_ARMY" file="us_army.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="X_FORCE" file="x-force.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="X_MEN" file="x-men.png" minimizedUnderlay="false" />
+<icon category="TEAM" name="DND" file="DND-logo-silver.png" minimizedUnderlay="false" />
+<icon category="TEAM" name="BOUNTY" file="mandalorian.png" minimizedUnderlay="false" />
+<icon category="TEAM" name="OnePiece" file="onepiece.png" minimizedUnderlay="false" />
+<icon category="TEAM" name="CrimeSyndicate" file="crime-syndicate.png" minimizedUnderlay="false" />
+<icon category="TEAM" name="X_Factor" file="x-factor.png" minimizedUnderlay="false" />
+
 
 </xml>

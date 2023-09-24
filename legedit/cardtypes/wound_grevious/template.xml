@@ -71,7 +71,7 @@
  <cardname 
  name="Card Name"
  defaultvalue="Card Name"
- allowchange="false"
+ allowchange="true"
  includesubname="false"
  subnameeditable="false"
  highlight="blur"
@@ -94,25 +94,28 @@
 
 </styles>
 
-<cardname 
+<text 
  name="Wound Card Type"
  defaultvalue="Grievous Wound"
- allowchange="false"
+ allowchange="true"
  includesubname="false"
  highlight="blur"
  highlightcolour="#000000"
  uppercase="true"
  alignment="left"
- x="70"
- y="715"
+ x="90"
+ y="780"
  colour="#FFFFFF"
- textsize="60"
+ textsize="58"
  subnamesize="40"
  blurradius="5"
  bluedouble="false"
  blurexpand="3"
+ blurcolour="#000000"
+ drawunderlay="true"
+ fontname="Percolator"
+ fontstyle="0"
  />
-
 <textarea
  name="Wound Card Text"
  alignmenthorizontal="left"

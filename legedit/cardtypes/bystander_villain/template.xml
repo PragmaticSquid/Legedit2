@@ -150,11 +150,11 @@
  alignmenthorizontal="left"
  alignmentvertical="top"
  allowchange="true"
- defaultvalue="When this bystander is rescued, it instead enters the city."
+ defaultvalue="When this bystander is rescued, it instead becomes a Villain and enters the city."
  colour="#000000"
  textsize="34"
- rectxarray="120,735,735,500,347,180"
- rectyarray="845,845,1040,1040,1000,909"
+ rectxarray="120,670,670,560,560,347,180"
+ rectyarray="845,845,885,885,1020,1000,909"
  debug="false"
  />
 
