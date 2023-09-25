@@ -3,13 +3,16 @@
 
 <icon category="TEAM" name="AUTOBOT" file="autobot.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="AVENGERS" file="avengers.png" minimizedUnderlay="false" />
+<icon category="TEAM" name="BOUNTY" file="mandalorian.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="BROTHERHOOD" file="pic2683704_t.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="CABAL" file="pic2683703_t.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="CHAMPIONS" file="champions.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="CYBERTRON" file="cybertron.png" minimizedUnderlay="false" />
+<icon category="TEAM" name="CrimeSyndicate" file="crime-syndicate.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="DECEPTICON" file="decepticon.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="DEFENDERS" file="defenders.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="DINOBOT" file="dinobot.png" minimizedUnderlay="false" />
+<icon category="TEAM" name="DND" file="DND-logo-silver.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="FANTASTIC_FOUR" file="fantastic-four.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="FOOT_CLAN" file="foot_clan_logo__2003_tv_series__by_jamesng8-d7rraxx.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="GUARDIANS" file="guardians.png" minimizedUnderlay="false" />
@@ -18,6 +21,7 @@
 <icon category="TEAM" name="MARVEL_KNIGHTS" file="marvel-knights.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="MERCS_4_MONEY" file="687474703a2f2f692e696d6775722e636f6d2f343379547850772e706e67.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="MUTANT" file="mutants.png" minimizedUnderlay="false" />
+<icon category="TEAM" name="OnePiece" file="onepiece.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="PREDACON" file="predacon.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="QUINTESSON" file="quintesson.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="RUNAWAYS" file="runaways.png" minimizedUnderlay="false" />
@@ -29,12 +33,8 @@
 <icon category="TEAM" name="TURTLES" file="turtles.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="US_ARMY" file="us_army.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="X_FORCE" file="x-force.png" minimizedUnderlay="false" />
-<icon category="TEAM" name="X_MEN" file="x-men.png" minimizedUnderlay="false" />
-<icon category="TEAM" name="DND" file="DND-logo-silver.png" minimizedUnderlay="false" />
-<icon category="TEAM" name="BOUNTY" file="mandalorian.png" minimizedUnderlay="false" />
-<icon category="TEAM" name="OnePiece" file="onepiece.png" minimizedUnderlay="false" />
-<icon category="TEAM" name="CrimeSyndicate" file="crime-syndicate.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="X_Factor" file="x-factor.png" minimizedUnderlay="false" />
+<icon category="TEAM" name="X_MEN" file="x-men.png" minimizedUnderlay="false" />
 
 
 </xml>
