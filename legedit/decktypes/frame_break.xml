@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+
+<structure
+ name="frame_break"
+ displayname="Frame Break"
+ defaultstyle="Base"
+ group="frame_break"
+ nameeditable="true"
+ />
+
+<attributes>
+ <attribute
+  name="Team"
+  type="icon"
+  icontype="team"
+ />
+</attributes>
+
+</xml>
+

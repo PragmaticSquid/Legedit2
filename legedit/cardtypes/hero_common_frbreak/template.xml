@@ -2,8 +2,8 @@
 <xml>
 
 <template
- name="hero_common_break2"
- displayname="Hero (Common Frame Break Step2)"
+ name="hero_common_frbreak"
+ displayname="Hero Frame Break Composite (Common)"
  deck="hero"
  defaultsindeck="false"
  defaultcopies="1"

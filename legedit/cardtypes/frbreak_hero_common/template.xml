@@ -2,10 +2,10 @@
 <xml>
 
 <template
- name="hero_common_break1"
- displayname="Hero (Common Frame Break Step1)"
- deck="hero"
- defaultsindeck="false"
+ name="frbreak_hero_common"
+ displayname="Hero Frame Break Background (Common)"
+ deck="frame_break"
+ defaultsindeck="true"
  defaultcopies="1"
  />
 
@@ -387,7 +387,7 @@
 <property
  name="Number in Deck"
  property="numberindeck"
- defaultvalue="5"
+ defaultvalue="1"
  />
 
 </xml>
