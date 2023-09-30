@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+
+<template
+ basetemplate="hero_common_frbreak"
+ name="hero_uncommon_frbreak"
+ displayname="Hero Frame Break Composite (Uncommon)"
+ defaultcopies="1"
+ />
+
+<textarea
+ name="Card Text"
+ rectxarray="140,740,740,555,555,140"
+/>
+ 
+<property
+ name="Number in Deck"
+ property="numberindeck"
+ defaultvalue="3"
+ />
+
+</xml>
+

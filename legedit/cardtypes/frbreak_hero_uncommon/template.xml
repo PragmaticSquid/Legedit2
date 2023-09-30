@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+
+<template
+ basetemplate="frbreak_hero_common"
+ name="frbreak_hero_uncommon"
+ displayname="Hero Frame Break Background (Uncommon)"
+ defaultcopies="1"
+ />
+
+<property
+ name="Number in Deck"
+ property="numberindeck"
+ defaultvalue="1"
+ />
+
+</xml>
+

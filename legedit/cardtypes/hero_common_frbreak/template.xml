@@ -387,7 +387,7 @@
 <property
  name="Number in Deck"
  property="numberindeck"
- defaultvalue="1"
+ defaultvalue="5"
  />
 
 </xml>
