@@ -6,6 +6,8 @@ Thanks to ...
 * Dre 2 point 0's Legedit_Transformed which upgrades the card's look
   https://drive.google.com/drive/folders/18TgEBdjpXEpInzvRLQTf8A8AZE2ZdTsk?usp=sharing
 
+* CrimsonY for adjusting the hero frames to improve bleed
+
 You can also find Dre 2 point 0's excellent Legedit instructions at:
   https://drive.google.com/file/d/1LD4sqVf2i2zVcv404kERyjPL2-_M4oNf/view?usp=share_link
 
