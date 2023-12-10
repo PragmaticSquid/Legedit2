@@ -41,6 +41,8 @@
 <icon category="TEAM" name="SHIELD" file="shield.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="SINISTER6" file="sinister6.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="SPIDER_FRIENDS" file="spider-friends.png" minimizedUnderlay="false" />
+<icon category="TEAM" name="SW-IMPERIALS" file="sw-imperial-1.png" minimizedUnderlay="false" />
+<icon category="TEAM" name="SW-REBELS" file="sw-rebel-1.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="SQUIRREL" file="squirrels.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="THUNDERBOLTS" file="thunderbolts.png" minimizedUnderlay="false" />
 <icon category="TEAM" name="TURTLES" file="turtles.png" minimizedUnderlay="false" />
