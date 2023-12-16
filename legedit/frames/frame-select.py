@@ -37,17 +37,22 @@ def copy_files(dir_dict, class_list, args):
                 file_name_src = f'{_type}/{args.mode}/back_{_cls}.png'
                 file_name_dst = f'../cardtypes/{_dir}/back_{_cls}.png'
 
-                if os.path.isfile(file_name_src):
-                    cmd = f'identify {file_name_src}'
-                    run_system_command(cmd)
-
-                    try:
-                        shutil.copy(file_name_src, file_name_dst)
-                        print(f"File '{file_name_src}' copied to '{file_name_dst}'")
-                    except shutil.Error as e:
-                        print(f"Error copying '{file_name_src}' to '{file_name_dst}': {e}")
+                if args.mode == "restore":
+                    restore_cmd = f"git restore {file_name_dst}"
+                    print(restore_cmd)
+                    run_system_command(restore_cmd)
                 else:
-                    print(f"ERROR: The file '{file_name_src}' either does not exist or is not a regular file.")
+                    if os.path.isfile(file_name_src):
+                        cmd = f'identify {file_name_src}'
+                        run_system_command(cmd)
+
+                        try:
+                            shutil.copy(file_name_src, file_name_dst)
+                            print(f"File '{file_name_src}' copied to '{file_name_dst}'")
+                        except shutil.Error as e:
+                            print(f"Error copying '{file_name_src}' to '{file_name_dst}': {e}")
+                    else:
+                        print(f"ERROR: The file '{file_name_src}' either does not exist or is not a regular file.")
 
 
 def main():
@@ -60,7 +65,7 @@ def main():
 
     # Define the command-line arguments
     parser.add_argument("mode",
-                        choices=['orig', 'edge'],
+                        choices=['orig', 'edge', 'restore'],
                         help="Hero frame styles: orig (original), edge (better for bleed)"
     )
 
